@@ -12,7 +12,7 @@ Before running this project, ensure that you have the following installed:
 ## Setup
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/JSP-CRUD-Exercise.git
+   git clone https://github.com/rukundoeric/JSPCrudAPP.git
    ```
 2. Open the project in your preferred IDE (Integrated Development Environment).
 
